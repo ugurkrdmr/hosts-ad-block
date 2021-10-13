@@ -1,0 +1,36 @@
+#Örnek İp Engelleme;
+#127.0.0.1/0.0.0.0/localhost	31.31.31.31
+
+#[ip=127.0.0.1]		[Engellenecek Site]
+
+127.0.0.1			ceviz.pw
+127.0.0.1			fiorenetwork.com
+127.0.0.1			marsbahis391.com
+127.0.0.1			dizimag.biz/rek
+127.0.0.1			betxlarge67.com
+127.0.0.1			betxlargepartner.com
+127.0.0.1			betdoksan46.com
+127.0.0.1			113sporcasino.com
+127.0.0.1			paribahis45.com
+127.0.0.1			219betvole.com
+127.0.0.1			80queenbet.com
+127.0.0.1			lotobet3.com
+127.0.0.1			bettilt741.com
+127.0.0.1			ads.advrstcdn.com
+127.0.0.1			172betcup.com
+127.0.0.1			bnwaff1.com
+127.0.0.1			100timebet.com
+127.0.0.1			recaptcha.net
+127.0.0.1			adbetnetwork.com
+127.0.0.1			finema.net
+127.0.0.1			finema-net.cdn.ampproject.org
+127.0.0.1			badana.me
+127.0.0.1			r20.club
+127.0.0.1			paribahis36.com
+127.0.0.1			nmrd.netlify.app
+127.0.0.1			224betvole.com
+127.0.0.1			betgorebysson.club
+127.0.0.1			interstitial-07.com
+127.0.0.1			peirs5tbakchios.com
+127.0.0.1			storj.cloud
+127.0.0.1			aj2373.online
