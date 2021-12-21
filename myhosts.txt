@@ -35,3 +35,6 @@
 0.0.0.0			storj.cloud
 0.0.0.0			aj2373.online
 0.0.0.0			ppcnt.org
+0.0.0.0     googlesyndication.com
+0.0.0.0     *.googlesyndication.com
+0.0.0.0     googleadservices.com
