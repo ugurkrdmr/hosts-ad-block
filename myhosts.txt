@@ -38,3 +38,5 @@
 0.0.0.0     googlesyndication.com
 0.0.0.0     *.googlesyndication.com
 0.0.0.0     googleadservices.com
+0.0.0.0     makroo.com
+0.0.0.0     googletagservices.com
