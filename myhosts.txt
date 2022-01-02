@@ -40,3 +40,4 @@
 0.0.0.0     googleadservices.com
 0.0.0.0     makroo.com
 0.0.0.0     googletagservices.com
+0.0.0.0     doubleclick.net
