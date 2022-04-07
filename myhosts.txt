@@ -1,7 +1,7 @@
 #Örnek İp Engelleme;
 #127.0.0.1/0.0.0.0/localhost	example.com
 
-#[ip=0.0.0.0]		[Engellenecek Site]
+#[ip=0.0.0.0]	[Engellenecek Site]
 
 0.0.0.0			ceviz.pw
 0.0.0.0			fiorenetwork.com
@@ -35,10 +35,18 @@
 0.0.0.0			storj.cloud
 0.0.0.0			aj2373.online
 0.0.0.0			ppcnt.org
-0.0.0.0 googlesyndication.com
-0.0.0.0 *.googlesyndication.com
-0.0.0.0 googleadservices.com
-0.0.0.0 makroo.com
-0.0.0.0 googletagservices.com
-0.0.0.0 doubleclick.net
-0.0.0.0 aj2374.online
+0.0.0.0 		googlesyndication.com
+0.0.0.0 		*.googlesyndication.com
+0.0.0.0 		googleadservices.com
+0.0.0.0 		makroo.com
+0.0.0.0 		googletagservices.com
+0.0.0.0 		doubleclick.net
+0.0.0.0 		aj2374.online
+0.0.0.0			yoursitestatstube.ru
+0.0.0.0			ping.staticmoly.me
+0.0.0.0			vstats.me
+0.0.0.0			staticmoly.me
+0.0.0.0			vidmoly.net/logas/ads.js
+0.0.0.0			ping.staticmoly.me/ads/
+0.0.0.0			google-analytics.com
+0.0.0.0			imgvm.me
