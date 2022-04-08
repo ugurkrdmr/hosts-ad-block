@@ -51,3 +51,10 @@
 0.0.0.0			google-analytics.com
 0.0.0.0			imgvm.me
 0.0.0.0			xtremeserve.xyz
+0.0.0.0			itskiddoan.club
+0.0.0.0			cdn.itskiddoan.club
+0.0.0.0			cdn.uponelectabuzzor.club
+0.0.0.0			uponelectabuzzor.club
+0.0.0.0			salutationcheerlessdemote.com
+0.0.0.0			addresseepaper.com
+0.0.0.0			yoursitestatstube.ru
