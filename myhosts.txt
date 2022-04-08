@@ -1,7 +1,7 @@
 #Örnek İp Engelleme;
 #127.0.0.1/0.0.0.0/localhost	example.com
 
-#[ip=0.0.0.0]		[Engellenecek Site]
+#[ip=0.0.0.0]	[Engellenecek Site]
 
 0.0.0.0			ceviz.pw
 0.0.0.0			fiorenetwork.com
@@ -50,3 +50,4 @@
 0.0.0.0			ping.staticmoly.me/ads/
 0.0.0.0			google-analytics.com
 0.0.0.0			imgvm.me
+0.0.0.0			xtremeserve.xyz
