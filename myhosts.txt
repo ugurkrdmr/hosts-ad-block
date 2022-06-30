@@ -58,3 +58,14 @@
 0.0.0.0			salutationcheerlessdemote.com
 0.0.0.0			addresseepaper.com
 0.0.0.0			yoursitestatstube.ru
+
+#Blitz.gg adverts
+0.0.0.0 		hotjar.com
+0.0.0.0 		tpc.googlesyndication.com
+0.0.0.0 		pixel.adsafeprotected.com
+0.0.0.0 		ams1-ib.adnxs.com
+0.0.0.0 		2mdb.net
+0.0.0.0 		s0.2mdb.net
+0.0.0.0 		s1.2mdb.net
+0.0.0.0 		s2.2mdb.net
+0.0.0.0			s3.2mdb.net
