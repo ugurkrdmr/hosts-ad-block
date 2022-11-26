@@ -59,4 +59,6 @@
 0.0.0.0			addresseepaper.com
 0.0.0.0			yoursitestatstube.ru
 0.0.0.0     moderjat.com
+0.0.0.0     *.moderjat.com
 0.0.0.0     dogt.xyz
+0.0.0.0     *.dogt.xyz
